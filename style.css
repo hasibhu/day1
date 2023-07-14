@@ -1,0 +1,45 @@
+
+nav li{
+    display: inline;
+    margin-right: 20px;
+
+    
+}
+
+nav li>a{
+    text-decoration: none;
+}
+
+/* section{
+    margin: 10px;
+    border: 5px solid steelblue;
+    padding: 15px;
+} */
+
+input{}
+
+label{
+    display: block;
+    padding: 5px;
+}
+
+.figimage{
+    text-align: center;
+
+}
+.figcap{
+    text-align: center;
+}
+
+
+
+
+
+
+
+footer{
+
+    margin-top: 30px;
+    text-align: center;
+}
+
